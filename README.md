@@ -1,2 +1,2 @@
 # hello-world
-An app who wants to say Hello!
+An app that wants to say Hello!
